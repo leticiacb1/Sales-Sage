@@ -56,3 +56,9 @@ The step-by-step process followed for the development of the project can be foll
 <br>
 
 * `src/` : Source code for the project.
+
+<br>
+@2024, Insper. 9° Semester,  Computer Engineering.
+<br>
+
+_Machine Learning Ops & Interviews Discipline_
