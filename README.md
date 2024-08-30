@@ -1,6 +1,6 @@
-### 🤖 Your Machine Learning Ops Template
+### 🤖 SalesSage | Model Prediction
 
-Write a description of what the project is about here.
+This project focuses on developing a machine learning model designed to predict the total sales for individual stores on a daily basis.
 
 #### 📌️ How to use this project
 
@@ -23,7 +23,7 @@ Install dependencies :
     pip install -r requirements.txt
 ```
 
-**Generate Mocked Data**
+* **Generate Mocked Data**
 
 
 To generate random data that will be used for the model, run the command:
@@ -34,12 +34,15 @@ To generate random data that will be used for the model, run the command:
 
 The date must be created within the *data folder*.
 
-**What the model should predict**
+* **What the model should predict**
 
 The model will `predict the total to be sold per store in one day.`
 
 The expected result is a DataFrame where each line represents the total sales of a store in one day:
 
+* **Step by Step**
+
+The step-by-step process followed for the development of the project can be followed in the Jupyter notebook: `notebooks/report.ipynb`
 
 #### 📂️ Folders
 
